@@ -1,2 +1,2 @@
 # KeySpam
-KeySpam is my personal project its the best free keyspam
+KeySpam is a very nice pixelated UI app for all of your keyboard and mouse spamming needs, its clean, retro and has nice animations and very ear tickling and ADHD friendly sound effects and features that I'm sure you probably will enjoy very much. It uses practically no CPU, as an idle python app it can sit in the background until you need to mash keys without molesting your keyboards longevity
